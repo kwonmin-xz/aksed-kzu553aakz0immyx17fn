@@ -1,0 +1,4 @@
+.loader-mask-style {
+    mask: conic-gradient(#00000000, #000000), linear-gradient(#000000 0px 0px) content-box;
+    -webkit-mask: conic-gradient(#00000000, #000000), linear-gradient(#000000 0px 0px) content-box;
+}
